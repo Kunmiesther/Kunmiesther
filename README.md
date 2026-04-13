@@ -53,7 +53,7 @@
 
 ## 📫 Connect
 
-- Twitter / X: https://twitter.com/kunmiii__ 
+- Twitter / X: [`@kunmiii__`](https://twitter.com/kunmiii__) 
 - LinkedIn: https://linkedin.com/in/esther-kunmi 
 
 ---
