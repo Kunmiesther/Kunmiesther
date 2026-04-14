@@ -39,18 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunmiesther&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunmiesther&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect
 
 - Twitter / X: [`@kunmiii__`](https://twitter.com/kunmiii__) 
