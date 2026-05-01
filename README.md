@@ -41,8 +41,7 @@
 
 ## 📫 Connect
 
-- Twitter / X: [`@kunmiii__`](https://twitter.com/kunmiii__) 
-- LinkedIn: https://linkedin.com/in/esther-kunmi 
+- Twitter / X: [`@kunmiii__`](https://twitter.com/kunmiii__)  
 
 ---
 
