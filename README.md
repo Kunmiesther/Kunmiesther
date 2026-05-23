@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - Build **AI-powered applications** with real-world use cases  
 - Develop **full-stack web apps** from frontend to backend logic  
@@ -21,7 +21,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,git,github" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧩 What I Work On
+##  What I Work On
 
 - Frontend interfaces (React, Next.js)  
 - Backend logic & APIs  
@@ -39,7 +39,7 @@
 
 ---
 
-## 📫 Connect
+##  Connect
 
 - Twitter / X: [`@kunmiii__`](https://twitter.com/kunmiii__)  
 
