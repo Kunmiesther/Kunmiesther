@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Estar 👋</h1>
+<h1 align="center">Hi, I'm Estar</h1>
 
 <p align="center">
   <b>Full-Stack Developer (Frontend-heavy) • AI-Powered Apps • Web3-Focused Builder</b>
